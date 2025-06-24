@@ -67,5 +67,6 @@ WireBendingMachine/
 
 ## Snapshot
 Here a snapshot of our project.
+
 ![Machine](https://github.com/user-attachments/assets/77bb54cf-c28b-4810-a907-0886e978725a)
 
