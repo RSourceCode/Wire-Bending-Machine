@@ -1,4 +1,4 @@
-# Wire Bending Machine 🤖
+# Wire Bending Machine 🤖 [![CodeFactor](https://www.codefactor.io/repository/github/rsourcecode/wire-bending-machine/badge)](https://www.codefactor.io/repository/github/rsourcecode/wire-bending-machine)
 
 A Mechatronics Project for Programmable 3D Wire Shaping
 *(TA212 Course Project)*
